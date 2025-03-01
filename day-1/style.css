@@ -1,0 +1,96 @@
+* {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 64px 120px;
+  display: flex;
+  gap: 64px;
+  align-items: center;
+}
+
+.judul {
+  font-size: 36px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+
+.input-box {
+  width: 100%;
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  margin-bottom: 20px;
+}
+
+.tombol {
+  width: 100%;
+  padding: 8px 16px;
+  background-color: #437EFC;
+  border-radius: 8px;
+  color: white;
+  border: 1px solid #437EFC;
+  font-size: 16px;
+}
+
+.remember-forgot {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.register {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.kolom-kiri {
+  width: 45%;
+}
+
+.kolom-kiri img {
+  width: 100%;
+}
+
+.kolom-kanan {
+  width: 55%;
+}
+
+.judul span {
+  color: #437EFC;
+}
+
+.input-remember {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+/* .input-box {
+  width: 100%;
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  margin-bottom: 20px;
+}
+
+.tombol {
+  padding: 8px 16px;
+  width: 100%;
+  background-color: #437EFC;
+  border-radius: 8px;
+  color: white;
+  border: 1px solid #437EFC;
+  font-size: 16px;
+}
+
+.remember-forgot {
+  margin-bottom: 20px;
+}
+
+.register {
+  margin-top: 20px;
+  text-align: center;
+} */
